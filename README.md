@@ -10,3 +10,5 @@ Debido a que en este proyecto tu contenido debe estar animado, puedes utilizar l
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [Magic](https://www.minimamente.com/example/magic_animations/)
 - [Hover.css](http://ianlunn.github.io/Hover/)
+
+*Recuerda que para comenzar a desarrollar debes crear todos los archivos necesarios y las conexiones entre ellos(index.html, style.css, app.js...)
